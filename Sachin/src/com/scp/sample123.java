@@ -7,5 +7,10 @@ public class sample123 {
 		System.out.println("sss");
 		
 		System.out.println("ITSworking");
+		
+		
+		
+		System.out.println("yahooooooooooo");
+		
 	}
 }
